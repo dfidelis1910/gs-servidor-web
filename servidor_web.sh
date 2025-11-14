@@ -1,6 +1,6 @@
 #!/bin/bash
 # -----------------------------------------------------------
-# Script: websetup_interativo.sh
+# Script: servidor_web.sh
 # Autor: Fidelis
 # Função: Instalar e configurar servidor WEB Apache no Debian
 # Versão: Interativa com seleção de template
